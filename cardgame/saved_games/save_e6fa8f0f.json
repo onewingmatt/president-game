@@ -6,9 +6,6 @@
       "name": "onewing",
       "is_cpu": false,
       "hand": [
-        "3\u2665",
-        "3\u2666",
-        "3\u2660",
         "7\u2665",
         "7\u2663",
         "9\u2660",
@@ -37,9 +34,6 @@
         "J\u2660",
         "Q\u2666",
         "K\u2665",
-        "A\u2663",
-        "A\u2660",
-        "A\u2665",
         "2\u2660"
       ],
       "role": "Vice Asshole",
@@ -66,7 +60,7 @@
       ],
       "role": "Asshole",
       "finished_position": null,
-      "passed": false
+      "passed": true
     },
     {
       "player_id": "cpu_2_5d13",
@@ -89,7 +83,7 @@
       ],
       "role": "Vice President",
       "finished_position": null,
-      "passed": false
+      "passed": true
     }
   ],
   "player_order": [
@@ -106,8 +100,12 @@
   ],
   "current_player_idx": 0,
   "lead_player_idx": 0,
-  "table_cards": [],
-  "table_meld_type": null,
+  "table_cards": [
+    "A\u2663",
+    "A\u2660",
+    "A\u2665"
+  ],
+  "table_meld_type": "TRIPLE",
   "finished_count": 0,
   "state": "playing",
   "round_num": 2,
