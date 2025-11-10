@@ -2,7 +2,7 @@ app = "president-card-game"
 primary_region = "iad"
 
 [build]
-builder = "Docker"
+builder = "docker"
 
 [env]
 PYTHONUNBUFFERED = "true"
