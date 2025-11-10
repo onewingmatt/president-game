@@ -1,5 +1,4 @@
-# President Card Game Deployment
-app = "president-card-game"
+app = "your-app-name"
 primary_region = "iad"
 
 [build]
