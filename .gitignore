@@ -1,0 +1,6 @@
+venv/
+saved_games/
+__pycache__/
+*.pyc
+.env
+.DS_Store
